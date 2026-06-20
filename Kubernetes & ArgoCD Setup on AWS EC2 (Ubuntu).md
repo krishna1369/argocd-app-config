@@ -1,5 +1,7 @@
 # Kubernetes & ArgoCD Setup on AWS EC2 (Ubuntu)
 
+Reference video: https://www.youtube.com/watch?v=F7WMRXLUQRM&list=PLy7NrYWoggjzSIlwxeBbcgfAdYoxCIrM2&index=9
+
 This guide covers the installation and configuration of:
 
 * Docker
